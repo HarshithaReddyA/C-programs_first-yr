@@ -1,2 +1,2 @@
-# C-programs_first-yr
+# C-programs
 This is my first Git Respository
